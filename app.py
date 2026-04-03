@@ -1,6 +1,6 @@
 import streamlit as st
 
-from src.data.data_loader import load_data
+from src.data_loader import load_data
 from src.processing.smoothing import apply_smoothing
 from src.detection.peak_detection import detect_peaks
 from src.detection.segmentation import segment_bursts

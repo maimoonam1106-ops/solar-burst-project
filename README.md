@@ -8,8 +8,8 @@ This system combines **signal processing**, **data analytics**, and **interactiv
 ---
 
 ## 🌐 Live Application
-🔗 https://your-app-name.streamlit.app  
-*(Replace with your deployed link)*
+🔗 https://solar-burst.streamlit.app/ 
+
 
 ---
 
@@ -149,7 +149,7 @@ solar-burst-project/
 ## ▶️ Getting Started
 
 ### 1️⃣ Clone Repository
-git clone https://github.com/your-username/solar-burst-project.git  
+git clone https://github.com/maimoonam1106-ops/solar-burst-project.git  
 cd solar-burst-project  
 
 ### 2️⃣ Install Dependencies
